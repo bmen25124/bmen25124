@@ -20,4 +20,4 @@ I do LLM stuff.
 
 | Project                                                                              | Description                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Lorebook Creator](https://github.com/bmen25124/lorebook-creator)** | Create lorebooks from fandom/wiki pages |
+| **[Lorecard](https://github.com/bmen25124/lorecard)** | Create characters and lorebooks from fandom/wiki pages |
