@@ -10,6 +10,7 @@ I do LLM stuff.
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[SillyTavern-Character-Creator](https://github.com/bmen25124/SillyTavern-Character-Creator)** | Create characters from your ST context(chats, lorebooks, etc.) using LLMs  |
 | **[SillyTavern-WorldInfo-Recommender](https://github.com/bmen25124/SillyTavern-WorldInfo-Recommender)** | Create lorebooks from your ST context(chats, lorebooks, etc.) using LLMs |
+| **[SillyTavern-Flowchart](https://github.com/bmen25124/SillyTavern-Flowchart)** | Automate things, visualize your flows. |
 | **[SillyTavern-Roadway](https://github.com/bmen25124/SillyTavern-Roadway)** | Get the idea from LLMs to what to do next. |
 | **[SillyTavern-WTracker](https://github.com/bmen25124/SillyTavern-WTracker)** | Track your chat stats like location, time, etc. |
 | **[SillyTavern-WeatherPack](https://github.com/bmen25124/SillyTavern-WeatherPack)** | Fix schizo markdown. Fix HTML/JS visualize |
