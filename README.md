@@ -4,6 +4,8 @@ I do LLM stuff.
 
 ### Projects
 
+See [NeoTavern-Frontend](https://github.com/NeoTavern/NeoTavern-Frontend) to experience better(?) SillyTavern.
+
 #### SillyTavern Extensions
 
 | Project                                                                              | Description                                                                                                                                                                                                    |
